@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684304372 source:c:\users\lenni\eclipse-workspace\cosc 1\src\bouncingball\src\cpf\src\chess.cpp
+	"Chess.h"
+	<iostream>
+	<vector>
+
+1684300500 c:\users\lenni\eclipse-workspace\cosc 1\src\bouncingball\src\cpf\include\chess.h
+
